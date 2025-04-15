@@ -109,7 +109,7 @@ sr.reveal('.vl2', {
 	}); 
 		sr.reveal('.dia', {
 		duration: 2000, //tiempo
-		delay:1800,
+		delay:800,
 		origin: 'top', //origen
 		scale: 0.10,
 		distance: '-0' //distancia
@@ -118,7 +118,7 @@ sr.reveal('.vl2', {
 	}); 
 		sr.reveal('.mes', {
 		duration: 1500, //tiempo
-		delay:1800,
+		delay:2000,
 		origin: 'left', //origen
 		distance: '100px' //distancia
 
@@ -126,7 +126,7 @@ sr.reveal('.vl2', {
 	}); 
 		sr.reveal('.año', {
 		duration: 2500, //tiempo
-		delay:1800,
+		delay:800,
 		origin: 'bottom', //origen
 		distance: '100px' //distancia
 
@@ -609,7 +609,7 @@ setTimeout(() => {
 })
 
 
-}, 3000);
+}, 5000);
 
 
        
